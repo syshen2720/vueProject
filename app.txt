@@ -1,2 +1,2 @@
-test app1
+쿠폰에서 변경 
 test app2
