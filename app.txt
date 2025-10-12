@@ -1,2 +1,4 @@
 메인에서 변경
 test app2
+
+git push -u test
