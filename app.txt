@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 메인에서 변경.  main 변경  변경
+=======
+메인에서 변경   tree 브랜치 테스트
+>>>>>>> tree
 test app2
 
 git push -u test
