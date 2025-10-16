@@ -1,2 +1,2 @@
 d file
-stash 테스트
+stash server edit 테스트
